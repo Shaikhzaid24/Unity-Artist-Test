@@ -1,0 +1,132 @@
+# Blender 4.4.3 MTL File: 'SpaceShip Dock.blend'
+# www.blender.org
+
+newmtl BackPlate
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd BackPlate_2K_Color.jpg
+map_Ns BackPlate_2K_Roughness.jpg
+map_refl BackPlate_2K_Metallic.jpg
+map_Bump -bm 1.000000 BackPlate_2K_NormalGL.jpg
+
+newmtl BodyOfDock
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Body_2K_Color.jpg
+map_Ns Body_2K_Roughness.jpg
+map_refl Body_2K_Metallic.jpg
+map_Bump -bm 1.000000 Body_2K_NormalGL.jpg
+
+newmtl DockFront
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd SpaceDockFront_2K_Color.jpg
+map_Ns SpaceDockFront_2K_Roughness.jpg
+map_refl SpaceDockFront_2K_Metallic.jpg
+map_Bump -bm 1.000000 SpaceDockFront_2K_NormalGL.jpg
+
+newmtl DockSidePanels
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd SpaceDockSidePanel_2K_Color.jpg
+map_Ns SpaceDockSidePanel_2K_Roughness.jpg
+map_refl SpaceDockSidePanel_2K_Metallic.jpg
+map_Bump -bm 1.000000 SpaceDockSidePanel_2K_NormalGL.jpg
+
+newmtl Door
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Door_2K_Color.jpg
+map_Ns Door_2K_Roughness.jpg
+map_refl Door_2K_Metallic.jpg
+map_Bump -bm 1.000000 Door_2K_NormalGL.jpg
+
+newmtl DoorBody
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd DoorBody_2K_Color.jpg
+map_Ns DoorBody_2K_Roughness.jpg
+map_refl DoorBody_2K_Metallic.jpg
+map_Bump -bm 1.000000 DoorBody_2K_NormalGL.jpg
+
+newmtl DoorSidePanels
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd DoorSidePanel_2K_Color.jpg
+map_Ns DoorSidePanel_2K_Roughness.jpg
+map_refl DoorSidePanel_2K_Metallic.jpg
+map_Bump -bm 1.000000 DoorSidePanel_2K_NormalGL.jpg
+
+newmtl Floor
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Floor_2K_Color.jpg
+map_Ns Floor_2K_Roughness.jpg
+map_refl Floor_2K_Metallic.jpg
+map_Bump -bm 1.000000 Floor_2K_NormalGL.jpg
+
+newmtl InnerSidePanel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd SpaceDockInnerSidePanel_2K_Color.jpg
+map_Ns SpaceDockInnerSidePanel_2K_Roughness.jpg
+map_refl SpaceDockInnerSidePanel_2K_Metallic.jpg
+map_Bump -bm 1.000000 SpaceDockInnerSidePanel_2K_NormalGL.jpg
+
+newmtl Pipe
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd InnerPipe_2K_Color.jpg
+map_Ns InnerPipe_2K_Roughness.jpg
+map_refl InnerPipe_2K_Metallic.jpg
+map_Bump -bm 1.000000 InnerPipe_2K_NormalGL.jpg
+
+newmtl glass
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
